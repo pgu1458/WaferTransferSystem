@@ -3,7 +3,7 @@
 > 반도체 장비 제어 구조를 구현한 HMI + 자동운전 + 통신 시뮬레이터 (C# WinForms)
 
 
-시연 영상 : https://youtu.be/7FDzhD7U8io
+시연 영상 : [https://youtu.be/7FDzhD7U8io](https://youtu.be/POu01F-f4Z8)
 
 ---
 
