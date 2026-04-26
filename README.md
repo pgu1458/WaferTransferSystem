@@ -32,9 +32,12 @@ HMI 화면, 상태머신 기반 자동운전 시퀀스, 알람 처리, 로그 �
 
 ## 🖥 HMI 화면
 
-<img width="600" height="500" alt="시퀀스 메인" src="https://github.com/user-attachments/assets/3bf07ca6-0a83-4338-82c1-b9b99088ba4a" />
 
-<img width="600" height="500" alt="알람발생" src="https://github.com/user-attachments/assets/a4348b57-6db3-4045-b23a-44e7e76f2105" />
+| HNI 메인 화면 | 알람발생 |
+|---|---|
+| <img width="600" height="500" alt="시퀀스 메인" src="https://github.com/user-attachments/assets/3bf07ca6-0a83-4338-82c1-b9b99088ba4a" /> | <img width="600" height="500" alt="알람발생" src="https://github.com/user-attachments/assets/a4348b57-6db3-4045-b23a-44e7e76f2105" /> |
+
+
 
 
 ---
@@ -106,14 +109,17 @@ Door Check → Wafer Detect → Door Lock → Vacuum ON
 | run_log.csv | 운전 시작 / 완료 이력 |
 | alarm_log.csv | 알람 발생 이력 |
 
-<img width="600" height="500" alt="xml,csv 파일생성확인" src="https://github.com/user-attachments/assets/740b054c-0827-4f53-9c16-7a9410b6564d" />
 
 
 
-<img width="600" height="500" alt="run csv 확인" src="https://github.com/user-attachments/assets/1a07dee4-9be6-4484-9d5a-537b278b957f" />
+
+| run csv | 파일생성확인 | alram csv |
+|---|---|---|
+| <img width="600" height="500" alt="run csv 확인" src="https://github.com/user-attachments/assets/1a07dee4-9be6-4484-9d5a-537b278b957f" /> |<img width="600" height="500" alt="xml,csv 파일생성확인" src="https://github.com/user-attachments/assets/740b054c-0827-4f53-9c16-7a9410b6564d" /> | <img width="600" height="500" alt="error alram csv 확인" src="https://github.com/user-attachments/assets/aeb11a64-0fa1-4035-8a97-9c2a0986ec9f" />|
 
 
-<img width="600" height="500" alt="error alram csv 확인" src="https://github.com/user-attachments/assets/aeb11a64-0fa1-4035-8a97-9c2a0986ec9f" />
+
+
 
 ---
 
