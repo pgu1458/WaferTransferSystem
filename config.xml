@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Network>
+    <IP>127.0.0.1</IP>
+    <Port>5000</Port>
+  </Network>
+  <Sequence>
+    <TimeoutSec>5</TimeoutSec>
+  </Sequence>
+  <Recipe>
+    <Name>Recipe_A</Name>
+    <ProcessTime>3</ProcessTime>
+  </Recipe>
+</Config>
