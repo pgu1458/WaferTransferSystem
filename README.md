@@ -25,7 +25,7 @@ HMI 화면, 상태머신 기반 자동운전 시퀀스, 알람 처리, 로그 �
 | 항목 | 내용 |
 |---|---|
 | Language | C# |
-| Framework | .NET 8.0 WinForms |
+| Framework | .NET 6.0 WinForms |
 | 통신 | TCP Socket |
 | 설정 | XML |
 | 로그 | CSV |
